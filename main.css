@@ -199,7 +199,7 @@ body{
         border-radius: 50%;
         &:hover{
             svg{
-                fill: darken(rgb(5, 24, 55), 20%);
+                fill: darken(rgb(246, 5, 5), 20%);
             }
         }
         &:last-child{
